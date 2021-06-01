@@ -1,4 +1,4 @@
-##### **JellyBall Programming Language**
+# **JellyBall Programming Language**
 
 If you are interested in this project, I'd like to say thank you for your stay.
 
